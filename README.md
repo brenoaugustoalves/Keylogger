@@ -1,4 +1,6 @@
 Keylogger em C para Windows
+
+
 Descrição
 Este projeto é um keylogger, um programa que registra as teclas pressionadas no teclado e as salva em um arquivo de texto. Ele foi desenvolvido em C para sistemas operacionais Windows e executa de maneira oculta, sem exibir uma janela de console durante a execução.
 
